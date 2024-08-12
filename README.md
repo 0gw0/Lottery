@@ -25,7 +25,7 @@ This project serves as a practice exercise for:
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/)
-- [Truffle](https://www.trufflesuite.com/truffle) or [Hardhat](https://hardhat.org/) (depending on the project setup)
+- [Truffle](https://www.trufflesuite.com/truffle)
 - [Ethereum wallet](https://ethereum.org/en/wallets/) (e.g., MetaMask)
 
 ### Installation
