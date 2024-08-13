@@ -2,6 +2,10 @@
 
 A blockchain-based lottery system implemented using Solidity smart contracts and JavaScript.
 
+## Live Demo
+
+Check out the live demo of the project: [Ethereum Lottery](https://eth-lottery-solidity.vercel.app/)
+
 ## Project Structure
 
 - `contracts/`: Contains Solidity smart contract(s) for the lottery system
