@@ -4,8 +4,8 @@ const { abi, evm } = require('./compile');
 require('dotenv').config();
 
 const provider = new HDWalletProvider(
-	process.MNEMONIC_PHRASE,
-	process.ETH_ENDPOINT
+	process.env.MNEMONIC_PHRASE,
+	process.env.ETH_ENDPOINT
 );
 const web3 = new Web3(provider);
 
